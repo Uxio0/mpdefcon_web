@@ -1,0 +1,401 @@
+# Site settings
+# baseurl = "https://mariapitadefcon.es/"
+baseurl = ""
+languageCode = "es-es"
+title = "Maria Pita DEFcon"
+theme = "hugo-agency-theme"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+[params]
+  # You can use Markdown syntax for urls [text](//url.to/source) or
+  # most longer texts.
+  #
+  # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # To provide some metadata for search engines feel free to add a few
+  # information about you and your website.
+  name = "María Pita Defcon"
+  description = "Conferencia sobre seguridad informática en A Coruña"
+
+  # Link custom assets relative to /static
+  custom_css = []
+  custom_js  = []
+  favicon    = "favicon.ico"
+
+  # Possibility to disable external/additional fonts
+  # Exception: Fontawesome
+  disableFonts = false
+
+  # 404 error customization
+  [params.error404]
+    heading = "No se encuentra la página. Tal vez te has pasado con las comillas ;)"
+    text = "Por favor vuelve a la [página principal](http://www.mariapitadefcon.es/)"
+
+  # Optional piwik tracking
+  #[params.analytics.piwik]
+  #  URL = "https://stats.example.com"
+  #  ID = "42"
+  #  # Track all subdomains with "*.example.com"
+  #  domain = "www.example.com"
+  #  # Optional integrity check hash
+  #  hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
+
+  # Navigation
+  [params.navigation]
+    brand = "Maria Pita Defcon"
+    # Optional logo as brand stored in img/
+    #logo = "logo.svg"
+    services = "Congreso"
+    portfolio = "Ponentes"
+    about = "Historia"
+    team = "Organización"
+    contact = "Contacto"
+
+    # Add custom links. Those can be pre- and postpended to the default menu above.
+    # Use the weight attribute to order your custom links. Uncomment the example
+    # below and replace the values with your own.
+
+    # prepended links
+    #[[menu.prepend]]
+    #  url = "http://gohugo.io"
+    #  name = "Hugo"
+    #  weight = 10
+
+    # postpended links
+    #[[menu.postpend]]
+    #  url = "http://gohugo.io"
+    #  name = "External link"
+    #  weight = 10
+
+
+  # Hero section
+  [params.hero]
+    # To change the background image of the hero, replace 'header-bg.jpg' in
+    # the 'static/img' folder.
+    title = "María Pita DefCon"
+    subtitle = ""
+    buttonText = "Cuéntame más"
+
+
+  # Services section
+  [params.services]
+    enable = true
+    title = "Congreso"
+    subtitle = """
+**María Pita DefCon** es un **evento centrado en la seguridad informática y la visibilización de la mujer en el ámbito de las TIC**, que tendrá lugar en la **Facultade de Informática de la Universidade da Coruña del 6 al 12 de marzo de 2017**.
+
+En él se darán cita los **mejores ponentes del mundo de la seguridad informática tanto a nivel local como nacional.**
+
+**Con una participación estimada de más de 500 visitantes únicos**, contará con numerosas charlas, mesas redondas, talleres y concursos a lo largo de toda una semana."""
+
+    [[params.services.row]]
+
+    [[params.services.row.list]]
+      icon = "fa-paper-plane-o"
+      title = "CFP"
+      description = """
+¿Tiene una **charla, taller, mesa redonda o concurso** sobre seguridad que quiera presentar a un público interesado y entregado?
+
+¡María Pita DefCon es su sitio! ¡Hágase un favor e inscríbase mediante el [siguiente formulario!](http://ponentes.mariapitadefcon.es/)
+
+El call for papers permanecerá **abierto desde el 9 de enero al 6 de febrero (ambos inclusive)**.
+
+Importante: **las candidaturas se irán evaluando tan pronto como vayan llegando** y se irán aprobando sin necesidad de esperar al último día. Cuanto antes se presenten, más probabilidades hay de obtener un espacio dentro del programa.
+"""
+      url = "#"
+
+    [[params.services.row.list]]
+      icon = "fa-users"
+      title = "Voluntarios"
+      description = """
+Desde la Organización del evento, **buscamos voluntarios** que quieran echar una mano con cualquier tarea derivada de la organización del mismo.
+
+Si está **interesado en colaborar** como voluntario, rellene el [siguiente formulario](http://voluntarios.mariapitadefcon.es/). Nos pondremos en contacto con usted a la mayor brevedad posible. Se lo agradecemos de antemano.
+"""
+      url = "#"
+
+    [[params.services.row.list]]
+      icon = "fa-id-card-o"
+      title = "Registro"
+      description = """
+Una vez publicado el programa definitivo se abrirá el registro de asistentes.
+
+**La inscripción y la aceptación del [código de conducta](https://mariapitadefcon.wordpress.com/codigo-de-conducta/) serán de carácter obligatorio** para poder participar en el evento.
+"""
+      url = "#"
+
+  # Portfolio section
+  [params.portfolio]
+    enable = true
+    # All projects defined in their own files. You can find example projects
+    # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    title = "Ponentes"
+    subtitle = "Aquí iremos publicando los ponentes confirmados en María Pita Defcon"
+
+    [params.portfolio.modal]
+      client = "Client"
+      date = "Date"
+      category = "Category"
+      buttonText = "Close project"
+
+
+    # About section
+  [params.about]
+    enable = true
+    title = "Historia"
+    subtitle = ""
+    endpoint = "Tú también puedes ser parte!"
+
+    # The events will be listed from the top to the bottom.
+    # All images are stored under 'static/img/about'.
+    # Replace them with your own.
+    [[params.about.events]]
+      img = "1.jpg"
+      date = "Noviembre de 2016"
+      title = "Nace María Pita Defcon"
+      description = "Debido al hueco que dejan en Coruña unas conferencias de temática similar, nace la idea de unas nuevas conferencias"
+
+    [[params.about.events]]
+      img = "2.jpg"
+      date = "28 de Diciembre de 2016"
+      title = "Publicación de la nota de prensa"
+      description = "El día de los inocentes se publica la primera nota de prensa de la celebración de las jornadas, tras la confirmación de la colaboración de la Facultade de Informática de A Coruña. Tal vez no haya sido la mejor fecha para anunciarla..."
+
+    [[params.about.events]]
+      img = "3.jpg"
+      date = "6 Enero de 2016"
+      title = "Abre CFP"
+      description = "Se abre el Call for Papers, así como la búsqueda de voluntarios para las jornadas"
+
+    [[params.about.events]]
+      img = "4.jpg"
+      date = "6-12 Marzo de 2016"
+      title = "Jornadas Maria Pita Defcon"
+      description = "Celebración de las jornadas"
+
+
+  # Team section
+  [params.team]
+    enable = true
+    # Possibility to center items
+    #center = true
+    title = "Organización"
+    subtitle = ""
+    description = ""
+
+    # All team member's pictures are stored under 'static/img/team'.
+    # Replace them with your own too.
+    # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
+    [[params.team.members]]
+      img = "alejo.jpg"
+      name = "Alejo Pacín"
+      position = "Ingeniero Informático"
+      reportsTo = ""
+      livesIn = "[A Coruña, España](#some-maps-url)"
+      scope = [
+        "Investigador de seguridad"
+      ]
+      # For bio markdown and even multiline strings are available.
+      bio = ""
+      social = [
+        ["fa-twitter", "https://twitter.com/xuco86"],
+        ["fa-github", "https://github.com/alejopj"],
+        ["fa-linkedin", "https://es.linkedin.com/in/alejopj"]
+      ]
+
+    [[params.team.members]]
+      img = "uxio.jpg"
+      name = "Uxío Fuentefría"
+      position = "Ingeniero Informático"
+      livesIn = "[A Coruña, España](#some-maps-url)"
+      #scope = [
+      #  ""
+      #]
+      social = [
+        ["fa-twitter", "https://twitter.com/uxio0"],
+        ["fa-github", "https://github.com/Uxio0"],
+        ["fa-linkedin", "https://es.linkedin.com/in/uxiof"]
+      ]
+
+    [[params.team.members]]
+      img = "david.jpg"
+      name = "David Albela"
+      position = ""
+      social = [
+        ["fa-twitter", "https://twitter.com/dalbela"],
+        ["fa-github", "https://github.com/dalbelap"],
+        ["fa-linkedin", "https://es.linkedin.com/in/david-albela-6591399a"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Daniel Somoza"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Pilar Vila"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "José Vázquez Naya"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Raúl Oróns"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Jesús Pérez Rubio"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Fernando Suárez"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Juan González Cid"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Raúl Rodríguez Rubio"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+
+
+  # Client section
+    [params.clients_list]
+      enable = true
+      # Possibility to center items
+      #center = true
+      # Optional client title specifying the involvement
+      #title = "Used and trusted by"
+
+      # All the clients' logos are stored under 'static/img/logos'.
+      # Replace them with your clients's logos.
+      # Suggestion: .svg in the size of 280px*80px looks good
+      [[params.clients]]
+        logo = "aulanosa.png"
+        link = "http://www.aulanosa.es"
+
+      [[params.clients]]
+        logo = "cpeig.png"
+        link = "https://www.cpeig.gal/"
+
+  # Contact section
+  [params.contact]
+    enable = true
+    title = "Contacto"
+    subtitle  = "Quieres colaborar con el evento? Tal vez aportar como voluntario? Alguna duda?"
+    buttonText = "Enviar mensaje"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+
+    # It is possible to substitute formspring with other providers
+    # as an example the mailout plugin from caddy.
+    # Provide the post URL for the form and depending on the provider
+    # add some custom JS script to finish the implementation.
+    # postURL = "https://example.com/mailout/"
+
+    email = "organizacion@mariapitadefcon.es"
+
+    # Success and error message overwrite for async contact form
+    #thanks = "Thank you for awesomely contacting us."
+    #error = "Message could not be send. Please contact us at mail@example.com instead."
+
+    # 'warning' defines error messages for invalid inputs
+    [params.contact.form.name]
+      text = "Tu nombre *"
+      warning = "Por favor introduce tu nombre"
+
+    [params.contact.form.email]
+      text = "Tu email *"
+      warning = "Por favor introduce tu email"
+
+    [params.contact.form.phone]
+      text = "Tu teléfono"
+      warning = ""
+
+    [params.contact.form.message]
+      text = "Tu mensaje *"
+      warning = "Por favor escribe un mensaje"
+
+      # Add optional form fields to identify contact forms
+      #[[params.contact.form.hidden]]
+      #  name = "someID"
+      #  value = "example.com"
+      #
+      #[[params.contact.form.hidden]]
+      # Special values for name such as "page" and "site" will be autofilled
+      #  name = "page"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = "Publicado bajo Licencia Apache 2.0."
+
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      link = "https://twitter.com/mariapitadefcon"
+
+    [[params.footer.quicklinks]]
+      text = "Código de conducta"
+      link = "https://mariapitadefcon.wordpress.com/codigo-de-conducta/"
+
+    [[params.footer.quicklinks]]
+      text = "Colaboradores"
+      link = "https://mariapitadefcon.wordpress.com/colaboradores/"
