@@ -198,9 +198,9 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       position = "Ingeniero Informático"
       reportsTo = ""
       livesIn = "[A Coruña, España](#some-maps-url)"
-      scope = [
-        "Investigador de seguridad"
-      ]
+      #scope = [
+      #  "Investigador de seguridad"
+      #]
       # For bio markdown and even multiline strings are available.
       bio = ""
       social = [
@@ -318,6 +318,10 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       # All the clients' logos are stored under 'static/img/logos'.
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
+      [[params.clients]]
+        logo = "fic.jpg"
+        link = "http://www.fic.udc.es"
+
       [[params.clients]]
         logo = "aulanosa.png"
         link = "http://www.aulanosa.es"
