@@ -195,9 +195,9 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     [[params.team.members]]
       img = "alejo.jpg"
       name = "Alejo Pacín"
-      position = "Ingeniero Informático"
-      reportsTo = ""
-      livesIn = "[A Coruña, España](#some-maps-url)"
+      #position = "Ingeniero Informático"
+      #reportsTo = ""
+      #livesIn = "[A Coruña, España](#some-maps-url)"
       #scope = [
       #  "Investigador de seguridad"
       #]
@@ -212,8 +212,8 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     [[params.team.members]]
       img = "uxio.jpg"
       name = "Uxío Fuentefría"
-      position = "Ingeniero Informático"
-      livesIn = "[A Coruña, España](#some-maps-url)"
+      #position = "Ingeniero Informático"
+      #livesIn = "[A Coruña, España](#some-maps-url)"
       #scope = [
       #  ""
       #]
@@ -238,8 +238,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       name = "Daniel Somoza"
       position = ""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-building-o", "http://www.aulanosa.es/"]
       ]
 
     [[params.team.members]]
@@ -247,8 +246,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       name = "Pilar Vila"
       position = ""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-building-o", "http://forensic-security.com/"]
       ]
 
     [[params.team.members]]
@@ -265,26 +263,15 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       name = "Raúl Oróns"
       position = ""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://es.linkedin.com/in/raul-oc/en"]
       ]
 
     [[params.team.members]]
       img = "mr-robot.jpg"
-      name = "Jesús Pérez Rubio"
+      name = "Fernando Suárez Lorenzo"
       position = ""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
-      ]
-
-    [[params.team.members]]
-      img = "mr-robot.jpg"
-      name = "Fernando Suárez"
-      position = ""
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://es.linkedin.com/in/fernando-su%C3%A1rez-lorenzo-32519b8"]
       ]
 
     [[params.team.members]]
@@ -292,8 +279,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       name = "Juan González Cid"
       position = ""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://es.linkedin.com/in/juan-jose-gonzalez-cid-21179714/en"]
       ]
 
     [[params.team.members]]
@@ -303,6 +289,22 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       social = [
         ["fa-twitter", "#"],
         ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Daniel Cambón Parrado"
+      position = ""
+      social = [
+        ["fa-linkedin", "https://es.linkedin.com/in/danielcambon"]
+      ]
+
+    [[params.team.members]]
+      img = "mr-robot.jpg"
+      name = "Mónica Rodríguez Fernández"
+      position = ""
+      social = [
+        ["fa-linkedin", "https://es.linkedin.com/in/monicarodriguezfernandez"]
       ]
 
 
