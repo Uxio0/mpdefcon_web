@@ -400,8 +400,8 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 
     [[params.footer.quicklinks]]
       text = "Código de conducta"
-      link = "https://mariapitadefcon.wordpress.com/codigo-de-conducta/"
+      link = "/fixed/conducta/"
 
     [[params.footer.quicklinks]]
       text = "Colaboradores"
-      link = "https://mariapitadefcon.wordpress.com/colaboradores/"
+      link = "/fixed/colaboradores/"
