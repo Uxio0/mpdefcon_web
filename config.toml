@@ -234,7 +234,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "mr_robot.jpg"
       name = "Daniel Somoza"
       position = ""
       social = [
@@ -242,7 +242,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "mr_robot.jpg"
       name = "Pilar Vila"
       position = ""
       social = [
@@ -250,7 +250,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "naya.jpg"
       name = "José Vázquez Naya"
       position = ""
       social = [
@@ -259,7 +259,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "raul.jpg"
       name = "Raúl Oróns"
       position = ""
       social = [
@@ -267,7 +267,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "fernando_suarez.jpg"
       name = "Fernando Suárez Lorenzo"
       position = ""
       social = [
@@ -275,7 +275,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "mr_robot.jpg"
       name = "Juan González Cid"
       position = ""
       social = [
@@ -283,7 +283,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "raul_rodriguez_rubio.jpg"
       name = "Raúl Rodríguez Rubio"
       position = ""
       social = [
@@ -292,7 +292,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "dani_cambon.jpg"
       name = "Daniel Cambón Parrado"
       position = ""
       social = [
@@ -300,7 +300,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr-robot.jpg"
+      img = "monica.jpg"
       name = "Mónica Rodríguez Fernández"
       position = ""
       social = [
