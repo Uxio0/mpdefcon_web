@@ -1,6 +1,6 @@
 # Site settings
 # baseurl = "https://mariapitadefcon.es/"
-baseurl = ""
+baseurl = "https://uxio0.github.io/mpdefcon_web/"
 languageCode = "es-es"
 title = "Maria Pita DEFcon"
 theme = "hugo-agency-theme"
