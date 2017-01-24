@@ -2,19 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixeds on Maria Pita DEFcon</title>
-    <link>https://uxio0.github.io/mpdefcon_web/fixed/index.xml</link>
+    <link>http://mariapitadefcon.es/fixed/index.xml</link>
     <description>Recent content in Fixeds on Maria Pita DEFcon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 14 Jan 2017 15:23:11 +0100</lastBuildDate>
-    <atom:link href="https://uxio0.github.io/mpdefcon_web/fixed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mariapitadefcon.es/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CFP</title>
+      <link>http://mariapitadefcon.es/fixed/cfp/</link>
+      <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
+      
+      <guid>http://mariapitadefcon.es/fixed/cfp/</guid>
+      <description>
+
+&lt;h1 id=&#34;cfp&#34;&gt;CFP&lt;/h1&gt;
+
+&lt;p&gt;¿Tiene una charla, taller, mesa redonda o concurso sobre seguridad que quiera presentar a un público interesado y entregado?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¡María Pita DefCon es su sitio!&lt;/strong&gt; ¡Hágase un favor e inscríbase mediante el siguiente &lt;a href=&#34;http://ponentes.mariapitadefcon.es/&#34;&gt;formulario&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;El &lt;strong&gt;call for papers&lt;/strong&gt; permanecerá abierto del &lt;strong&gt;9 de enero al 6 de febrero&lt;/strong&gt; (ambos inclusive).&lt;/p&gt;
+
+&lt;p&gt;Las candidaturas se irán evaluando tan pronto vayan llegando y se irán aprobando sin necesidad de esperar al último día. Cuanto antes se presenten, más probabilidades hay de obtener un espacio dentro del programa.&lt;/p&gt;
+
+&lt;p&gt;Atendiendo al compromiso del evento de dar visibilidad y promover la integración de la mujer en el mundo de la ciberseguridad, nos gustaría hacer un llamamiento a todas las mujeres del mundillo para que presenten propuestas (siempre cumpliendo con el requisito de versar sobre seguridad).&lt;/p&gt;
+
+&lt;p&gt;Desde la Organización del evento, siendo realistas y basándonos en las estadísticas del sector TIC y de otros eventos de corte similar, esperamos y deseamos que al menos uno de cada cuatro ponentes sea mujer.&lt;/p&gt;
+
+&lt;p&gt;Formatos y tiempos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Charlas:
+
+&lt;ul&gt;
+&lt;li&gt;El formato de las presentaciones será libre. No existe plantilla oficial.&lt;/li&gt;
+&lt;li&gt;5 min – Cambio de ponente / Montaje&lt;/li&gt;
+&lt;li&gt;40 min – Exposición&lt;/li&gt;
+&lt;li&gt;15 min – Preguntas&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Talleres:
+
+&lt;ul&gt;
+&lt;li&gt;10 min – Cambio de ponente / Montaje&lt;/li&gt;
+&lt;li&gt;1h35m (recomendado) a 3h35m (máx.) – Taller (posibles preguntas intercaladas)&lt;/li&gt;
+&lt;li&gt;15 min – Preguntas&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Mesas redondas:
+
+&lt;ul&gt;
+&lt;li&gt;5 min – Cambio de ponente / Montaje&lt;/li&gt;
+&lt;li&gt;55 min – Exposición y preguntas (intercaladas para fomentar el debate)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Concursos:
+
+&lt;ul&gt;
+&lt;li&gt;La redacción de las bases ha de ser publicada con anterioridad y ser lo suficientemente claras.&lt;/li&gt;
+&lt;li&gt;En caso de duda, la Organización resolverá como jurado imparcial.&lt;/li&gt;
+&lt;li&gt;1 a 5 días, recomendado 2 días.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Colaboradores</title>
-      <link>https://uxio0.github.io/mpdefcon_web/fixed/colaboradores/</link>
+      <link>http://mariapitadefcon.es/fixed/colaboradores/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
       
-      <guid>https://uxio0.github.io/mpdefcon_web/fixed/colaboradores/</guid>
+      <guid>http://mariapitadefcon.es/fixed/colaboradores/</guid>
       <description>
 
 &lt;h1 id=&#34;colaboradores&#34;&gt;Colaboradores&lt;/h1&gt;
@@ -195,10 +252,10 @@
     
     <item>
       <title>Código de Conducta</title>
-      <link>https://uxio0.github.io/mpdefcon_web/fixed/conducta/</link>
+      <link>http://mariapitadefcon.es/fixed/conducta/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
       
-      <guid>https://uxio0.github.io/mpdefcon_web/fixed/conducta/</guid>
+      <guid>http://mariapitadefcon.es/fixed/conducta/</guid>
       <description>
 
 &lt;h1 id=&#34;código-de-conducta&#34;&gt;Código de conducta&lt;/h1&gt;
