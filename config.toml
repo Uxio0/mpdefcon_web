@@ -66,11 +66,15 @@ googleAnalytics = "UA-90759484-1"
     #  weight = 10
 
     # postpended links
-    #[[menu.postpend]]
-    #  url = "http://gohugo.io"
-    #  name = "External link"
-    #  weight = 10
+    [[menu.postpend]]
+      url = "fixed/conducta/"
+      name = "Código de conducta"
+      weight = 10
 
+    [[menu.postpend]]
+      url = "fixed/colaboradores/"
+      name = "Colaboradores"
+      weight = 10
 
   # Hero section
   [params.hero]
@@ -168,8 +172,15 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     [[params.about.events]]
       img = "3.jpg"
       date = "6 Enero de 2016"
-      title = "Abre CFP"
-      description = "Se abre el Call for Papers, así como la búsqueda de voluntarios para las jornadas"
+      title = "Abre CFP y patrocinios"
+      description = "Se abre el Call for Papers, así como la búsqueda de patrocinadores/voluntarios para las jornadas"
+
+    [[params.about.events]]
+      img = "3.jpg"
+      date = "6 Febrero de 2016"
+      title = "Cierra CFP"
+      description = "Se cierra el Call For Papers"
+
 
     [[params.about.events]]
       img = "4.jpg"
