@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixeds on Maria Pita DEFcon</title>
-    <link>http://www.mariapitadefcon.es/fixed/index.xml</link>
+    <link>//www.mariapitadefcon.es/fixed/index.xml</link>
     <description>Recent content in Fixeds on Maria Pita DEFcon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 14 Jan 2017 15:23:11 +0100</lastBuildDate>
-    <atom:link href="http://www.mariapitadefcon.es/fixed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//www.mariapitadefcon.es/fixed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CFP</title>
-      <link>http://www.mariapitadefcon.es/fixed/cfp/</link>
+      <link>//www.mariapitadefcon.es/fixed/cfp/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
       
-      <guid>http://www.mariapitadefcon.es/fixed/cfp/</guid>
+      <guid>//www.mariapitadefcon.es/fixed/cfp/</guid>
       <description>
 
 &lt;h1 id=&#34;cfp&#34;&gt;CFP&lt;/h1&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>Colaboradores</title>
-      <link>http://www.mariapitadefcon.es/fixed/colaboradores/</link>
+      <link>//www.mariapitadefcon.es/fixed/colaboradores/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
       
-      <guid>http://www.mariapitadefcon.es/fixed/colaboradores/</guid>
+      <guid>//www.mariapitadefcon.es/fixed/colaboradores/</guid>
       <description>
 
 &lt;h1 id=&#34;colaboradores&#34;&gt;Colaboradores&lt;/h1&gt;
@@ -252,10 +252,10 @@
     
     <item>
       <title>Código de Conducta</title>
-      <link>http://www.mariapitadefcon.es/fixed/conducta/</link>
+      <link>//www.mariapitadefcon.es/fixed/conducta/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
       
-      <guid>http://www.mariapitadefcon.es/fixed/conducta/</guid>
+      <guid>//www.mariapitadefcon.es/fixed/conducta/</guid>
       <description>
 
 &lt;h1 id=&#34;código-de-conducta&#34;&gt;Código de conducta&lt;/h1&gt;
