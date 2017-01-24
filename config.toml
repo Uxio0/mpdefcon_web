@@ -2,7 +2,7 @@
 baseurl = "http://www.mariapitadefcon.es/"
 #baseurl = "https://uxio0.github.io/mpdefcon_web/"
 languageCode = "es-es"
-title = "Maria Pita DEFcon"
+title = "Maria Pita DefCon"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
@@ -18,7 +18,7 @@ googleAnalytics = "UA-90759484-1"
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "María Pita Defcon"
+  name = "María Pita DefCon"
   description = "Conferencia sobre seguridad informática en A Coruña"
 
   # Link custom assets relative to /static
@@ -46,7 +46,7 @@ googleAnalytics = "UA-90759484-1"
 
   # Navigation
   [params.navigation]
-    brand = "Maria Pita Defcon"
+    brand = "Maria Pita DefCon"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Congreso"
@@ -122,7 +122,7 @@ Si está **interesado en colaborar** como voluntario, rellene el [siguiente form
       description = """
 Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 
-**La inscripción y la aceptación del [código de conducta](https://mariapitadefcon.wordpress.com/codigo-de-conducta/) serán de carácter obligatorio** para poder participar en el evento.
+**La inscripción y la aceptación del [código de conducta](fixed/conducta) serán de carácter obligatorio** para poder participar en el evento.
 """
       url = "#"
 
@@ -134,7 +134,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Ponentes"
-    subtitle = "Aquí iremos publicando los ponentes confirmados en María Pita Defcon"
+    subtitle = "Aquí iremos publicando los ponentes confirmados en María Pita DefCon"
 
     [params.portfolio.modal]
       client = "Client"
@@ -156,7 +156,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     [[params.about.events]]
       img = "1.jpg"
       date = "Noviembre de 2016"
-      title = "Nace María Pita Defcon"
+      title = "Nace María Pita DefCon"
       description = "Debido al hueco que dejan en Coruña unas conferencias de temática similar, nace la idea de unas nuevas conferencias"
 
     [[params.about.events]]
@@ -174,7 +174,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     [[params.about.events]]
       img = "4.jpg"
       date = "6-12 Marzo de 2016"
-      title = "Jornadas Maria Pita Defcon"
+      title = "Jornadas Maria Pita DefCon"
       description = "Celebración de las jornadas"
 
 
