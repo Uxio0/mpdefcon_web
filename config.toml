@@ -32,7 +32,7 @@ googleAnalytics = "UA-90759484-1"
 
   # 404 error customization
   [params.error404]
-    heading = "No se encuentra la página. Tal vez te has pasado con las comillas ;)"
+    heading = "Tal vez te has pasado con las comillas ;)"
     text = "Por favor vuelve a la [página principal](http://www.mariapitadefcon.es/)"
 
   # Optional piwik tracking
