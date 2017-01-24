@@ -2,7 +2,7 @@
 baseurl = "http://www.mariapitadefcon.es/"
 #baseurl = "https://uxio0.github.io/mpdefcon_web/"
 languageCode = "es-es"
-title = "Maria Pita DefCon"
+title = "María Pita DefCon"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
@@ -46,7 +46,7 @@ googleAnalytics = "UA-90759484-1"
 
   # Navigation
   [params.navigation]
-    brand = "Maria Pita DefCon"
+    brand = "María Pita DefCon"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Congreso"
@@ -186,7 +186,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     [[params.about.events]]
       img = "4.jpg"
       date = "6-12 Marzo de 2016"
-      title = "Jornadas Maria Pita DefCon"
+      title = "Jornadas María Pita DefCon"
       description = "Celebración de las jornadas"
 
 
