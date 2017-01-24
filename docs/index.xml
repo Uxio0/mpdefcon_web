@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Pita DEFcon</title>
-    <link>https://mariapitadefcon.es/index.xml</link>
+    <link>http://mariapitadefcon.es/index.xml</link>
     <description>Recent content on Maria Pita DEFcon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 14 Jan 2017 15:23:11 +0100</lastBuildDate>
-    <atom:link href="https://mariapitadefcon.es/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mariapitadefcon.es/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CFP</title>
-      <link>https://mariapitadefcon.es/fixed/cfp/</link>
+      <link>http://mariapitadefcon.es/fixed/cfp/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
       
-      <guid>https://mariapitadefcon.es/fixed/cfp/</guid>
+      <guid>http://mariapitadefcon.es/fixed/cfp/</guid>
       <description>
 
 &lt;h1 id=&#34;cfp&#34;&gt;CFP&lt;/h1&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>Colaboradores</title>
-      <link>https://mariapitadefcon.es/fixed/colaboradores/</link>
+      <link>http://mariapitadefcon.es/fixed/colaboradores/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
       
-      <guid>https://mariapitadefcon.es/fixed/colaboradores/</guid>
+      <guid>http://mariapitadefcon.es/fixed/colaboradores/</guid>
       <description>
 
 &lt;h1 id=&#34;colaboradores&#34;&gt;Colaboradores&lt;/h1&gt;
@@ -252,10 +252,10 @@
     
     <item>
       <title>Código de Conducta</title>
-      <link>https://mariapitadefcon.es/fixed/conducta/</link>
+      <link>http://mariapitadefcon.es/fixed/conducta/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
       
-      <guid>https://mariapitadefcon.es/fixed/conducta/</guid>
+      <guid>http://mariapitadefcon.es/fixed/conducta/</guid>
       <description>
 
 &lt;h1 id=&#34;código-de-conducta&#34;&gt;Código de conducta&lt;/h1&gt;
@@ -290,10 +290,10 @@
     
     <item>
       <title>good to great</title>
-      <link>https://mariapitadefcon.es/post/good-to-great/</link>
+      <link>http://mariapitadefcon.es/post/good-to-great/</link>
       <pubDate>Tue, 10 Jan 2017 18:14:01 +0100</pubDate>
       
-      <guid>https://mariapitadefcon.es/post/good-to-great/</guid>
+      <guid>http://mariapitadefcon.es/post/good-to-great/</guid>
       <description>&lt;p&gt;OMG this is so &lt;strong&gt;good&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
