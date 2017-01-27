@@ -331,16 +331,29 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.clients]]
+        logo = "cpeig.png"
+        alt = "Colexio Profesional de Enxeñaría en Informática de Galicia"
+        link = "https://www.cpeig.gal"
+
+      [[params.clients]]
         logo = "fic.jpg"
+        alt = "Facultade de Informática de A Coruña"
         link = "http://www.fic.udc.es"
 
       [[params.clients]]
         logo = "aulanosa.png"
+        alt = "Aula Nosa"
         link = "http://www.aulanosa.es"
 
       [[params.clients]]
-        logo = "cpeig.png"
-        link = "https://www.cpeig.gal/"
+        logo = "forensic.png"
+        alt = "Forensics & Security"
+        link = "http://forensic-security.com/"
+
+      [[params.clients]]
+        logo = "academia-postal.jpg"
+        alt = "Grupo Academia Postal"
+        link = "http://www.academiapostal.es"
 
   # Contact section
   [params.contact]
