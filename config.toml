@@ -145,7 +145,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       client = "Client"
       date = "Date"
       category = "Category"
-      buttonText = "Close project"
+      buttonText = "Cerrar"
 
 
     # About section
