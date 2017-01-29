@@ -139,7 +139,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Ponentes"
-    subtitle = "Aquí iremos publicando los ponentes confirmados en María Pita DefCon"
+    subtitle = "Ponentes confirmados para María Pita DefCon 2017"
 
     [params.portfolio.modal]
       client = "Client"
