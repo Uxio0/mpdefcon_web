@@ -335,6 +335,11 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         alt = "Colexio Profesional de Enxeñaría en Informática de Galicia"
         link = "https://www.cpeig.gal"
 
+    [[params.clients]]
+        logo = "RNASA.png"
+        alt = "RNASA-IMEDIR"
+        link = "http://rnasa.tic.udc.es/presentacion.html"
+
       [[params.clients]]
         logo = "fic.jpg"
         alt = "Facultade de Informática de A Coruña"
@@ -354,6 +359,11 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         logo = "academia-postal.jpg"
         alt = "Grupo Academia Postal"
         link = "http://www.academiapostal.es"
+
+      [[params.clients]]
+        logo = "trileuco.png"
+        alt = "Trileuco Solutions"
+        link = "http://trileucosolutions.com/"
 
   # Contact section
   [params.contact]
