@@ -67,11 +67,6 @@ googleAnalytics = "UA-90759484-1"
 
     # postpended links
     [[menu.postpend]]
-      url = "fixed/conducta/"
-      name = "Código de conducta"
-      weight = 10
-
-    [[menu.postpend]]
       url = "fixed/colaboradores/"
       name = "Colaboradores"
       weight = 10
