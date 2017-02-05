@@ -961,4 +961,27 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #fed136;
-}-
+}
+
+/*
+ * Custom styles
+*/
+
+.navbar-default .navbar-brand {
+    text-shadow: 1px 1px 1px black;
+}
+
+.navbar-default .nav li a {
+  letter-spacing: normal;
+}
+
+header .intro-text .intro-lead-in .title {
+  display: inline;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 5px;
+  border-radius: 3px;
+}
+
+section#services .map-iframe {
+    margin-bottom: 75px;
+}
