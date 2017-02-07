@@ -189,7 +189,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
   [params.team]
     enable = true
     # Possibility to center items
-    #center = true
+    center = true
     title = "Organización"
     subtitle = ""
     description = ""
