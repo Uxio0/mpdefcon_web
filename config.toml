@@ -360,6 +360,11 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         alt = "Trileuco Solutions"
         link = "http://trileucosolutions.com/"
 
+      [[params.clients]]
+        logo = "symantec.png"
+        alt = "Symantec"
+        link = "https://www.symantec.com/es/es/"
+
   # Contact section
   [params.contact]
     enable = true
