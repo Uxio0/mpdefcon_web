@@ -178,5 +178,18 @@ ga('send', 'pageview');
 
 
 
+
+
+
+
+  <script>
+  $('.map-container')
+      .click(function(){
+              $(this).find('.overlay').addClass('clicked')})
+      .mouseleave(function(){
+              $(this).find('.overlay').removeClass('clicked')});
+  </script>
+
+
   </body>
 </html>
