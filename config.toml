@@ -317,6 +317,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
   # Client section
     [params.clients_list]
       enable = true
+      title = "Colaboradores"
       # Possibility to center items
       #center = true
       # Optional client title specifying the involvement
