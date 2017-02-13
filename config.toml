@@ -288,15 +288,6 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "raul_rodriguez_rubio.jpg"
-      name = "Raúl Rodríguez Rubio"
-      position = ""
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
-      ]
-
-    [[params.team.members]]
       img = "dani_cambon.jpg"
       name = "Daniel Cambón Parrado"
       position = ""
@@ -310,6 +301,15 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       position = ""
       social = [
         ["fa-linkedin", "https://es.linkedin.com/in/monicarodriguezfernandez"]
+      ]
+
+    [[params.team.members]]
+      img = "raul_rodriguez_rubio.jpg"
+      name = "Raúl Rodríguez Rubio"
+      position = ""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-linkedin", "#"]
       ]
 
 
