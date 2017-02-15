@@ -8,3 +8,6 @@ client: Start Bootstrap
 clientLink: "#"
 category: Securízame
 description: El título es "Memorias de un Perito Informático Forense Vol. IV" y se trata del relato de tres casos reales que me he encontrado en mi vida profesional como perito informático forense, y cómo he resuelto su problemática. Uno de ellos está relacionado con un software considerado como abandonware, otro un caso laboral relacionado con Windows y el tercero un fraude bancario.
+social: [
+  ["fa-twitter", "https://twitter.com/lawwait"]
+]

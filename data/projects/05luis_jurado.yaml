@@ -8,3 +8,6 @@ client: Start Bootstrap
 clientLink: "#"
 category: Perseus & RC Abogados
 description: TBA
+social: [
+  ["fa-twitter", "https://twitter.com/perseuslegal"]
+]

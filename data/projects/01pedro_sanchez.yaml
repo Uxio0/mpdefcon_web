@@ -1,6 +1,6 @@
 modalID: 1
 title: Pedro Sánchez Cordero
-subtitle: He trabajado en importantes empresas como consultor especializado en Computer Forensics, Honeynets, detección de intrusiones, redes trampa y pen-testing. He implantado normas ISO 27001, CMMI (nivel 5), PCI-DSS y diversas metodologías de seguridad 
+subtitle: He trabajado en importantes empresas como consultor especializado en Computer Forensics, Honeynets, detección de intrusiones, redes trampa y pen-testing. He implantado normas ISO 27001, CMMI (nivel 5), PCI-DSS y diversas metodologías de seguridad
 date: 2017-01-29
 img: pedro-sanchez.jpg
 preview: pedro-sanchez.jpg
@@ -8,3 +8,6 @@ client: Start Bootstrap
 clientLink: "#"
 category: Deloitte CyberSOC
 description: Detección y análisis de un ataque avanzado de Malware con Incident Response (Caso real)
+social: [
+  ["fa-twitter", "https://twitter.com/ConexionInversa"]
+]

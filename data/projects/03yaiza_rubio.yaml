@@ -8,3 +8,6 @@ client: Start Bootstrap
 clientLink: "#"
 category: ElevenPaths
 description: Las mujeres hemos crecido con referentes masculinos, principalmente por el nivel de concentración de los medios de comunicación. Ellos son los que deciden en qué tenemos que pensar. Pero, ¿cómo funciona en la práctica? En el caso de la ciberseguridad, han tomado cierta pasividad. La complejidad de internet hace que muchos medios prefieran permanecer en la superficialidad a la hora de señalar quiénes son nuestros verdaderos enemigos en la red, tal y como ha sucedido después de meses de alegatos de que Rusia había interferido en las elecciones presidenciales de Estados Unidos. El pasado 29 de diciembre, el Departamento de Seguridad Nacional (DHS) y el FBI publicaron las evidencias que detallaban las técnicas utilizadas por los servicios de inteligencia rusos. Pero, ¿de verdad se podía encontrar una explicación completa de esta atribución? Existen casos, como el de la Agencia Mundial Antidopaje, en los que se identificaron pruebas contradictorias sobre si el grupo que organizó el ataque procedía de Rusia.
+social: [
+  ["fa-twitter", "https://twitter.com/yrubiosec"]
+]

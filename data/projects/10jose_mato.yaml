@@ -8,3 +8,6 @@ client: Start Bootstrap
 clientLink: "#"
 category: MOBGEN | Accenture Digital
 description: Workshop sobre Hacking y Seguridad Web para desarrolladores web, con una duración de 4h en la que se expondría el OWASP TOP 10 y se pensarían entre los asistentes los problemas y soluciones. También se intentaría abarcar como compartir información entre aplicaciones web y mobile de forma segura.
+social: [
+  ["fa-twitter", "https://twitter.com/security4dev"]
+]
