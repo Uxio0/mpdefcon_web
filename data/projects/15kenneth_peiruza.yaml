@@ -6,5 +6,5 @@ img: kenneth-peiruza.jpg
 preview: kenneth-peiruza.jpg
 client: Start Bootstrap
 clientLink: "#"
-category: CTO en FLOSS-IT
+category: PUE
 description: El BigData está permitiendo almacenar y procesar grandes cantidades de datos que antes eran descartados o purgados tras unas semanas.  En materia de seguridad, supone poder almacenar y procesar toda clase de fuentes de información.  Apache Spot es un software libre lanzado por Cloudera e Intel que nos proporciona las herramientas para adquirir, enriquecer y analizar datos de fuentes como NetFlow, DNS y Proxies en tiempo real.  Es altamente modular y escalable hasta decenas de miles de servidores de almacenamiento y cómputo gracias a Hadoop, el estándar en BigData.  No se limita a un conjunto de reglas estáticas, aplica técnicas de inteligencia artificial y aprendizaje automático para descubrir nuevos ataques, y crea modelos exportables para la comunidad, motivo por el cuál empresas como eBay o WebRoots se han sumado al proyecto.  En la ponencia veremos Spot y su integración de fuentes de datos con Hadoop. 
