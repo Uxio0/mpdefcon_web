@@ -977,9 +977,21 @@ body {
 
 header .intro-text .intro-lead-in .title {
   display: inline;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.6);
   padding: 5px;
   border-radius: 3px;
+}
+
+aside {
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+
+section {
+  padding-top: 100px;
+  padding-bottom: 40px;
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 section#services .map-container {
@@ -996,10 +1008,44 @@ section#services .overlay.clicked{
     pointer-events: none;
 }
 
+section#portfolio h3.section-subheading {
+  margin-bottom: 10px;
+}
+
+section#portfolio .portfolio-items-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+
+section#portfolio .portfolio-item {
+  background-color: #fff;
+  padding-top: 15px;
+}
+
+section#portfolio .portfolio-caption .text-muted{
+  line-height: 20px;
+}
+
 /* Fix mobile width */
 section#portfolio .portfolio-item .img-responsive {
   width: 100%;
 }
+
 
 /* Portofilio modal */
 .portfolio-modal .modal-content {
@@ -1019,37 +1065,25 @@ section#portfolio .portfolio-item .img-responsive {
 }
 /* */
 
+
+/** Team members **/
+section#team .section-heading {
+  font-size: 35px;
+}
+
+section#team .team-member h3 {
+  font-size: 16px;
+}
+
+section#team .team-member img {
+  max-width: 70%;
+}
+
 /****/
-@media (min-width: 768px) {
-  section#portfolio .portfolio-item .img-responsive {
-    height: 345px;
-  }
-}
-@media (min-width: 992px) {
-  section#portfolio .portfolio-item .img-responsive {
-    height: 132px;
-  }
-}
-@media (min-width: 1200px) {
-  section#portfolio .portfolio-item .img-responsive {
-    height: 165px;
-  }
-}
-/***/
 
-/* Show a member per row in small devices */
-@media (max-width: 520px) {
-  section#team .team-item {
-    width: 100%;
-  }
-}
-
-aside {
-  padding-bottom: 100px;
-}
-
-@media (min-width: 768px) {
-  aside {
-      padding-bottom: 150px;
-  }
+footer .social-buttons.fixed {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  z-index: 150;
 }
