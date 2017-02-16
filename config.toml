@@ -372,6 +372,11 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         alt = "Gradiant"
         link = "https://www.gradiant.org/"
 
+      [[params.clients.gold]]
+        logo = "forensic.png"
+        alt = "Forensics & Security"
+        link = "http://forensic-security.com/"
+
       [[params.clients.silver]]
         logo = "mobgen.jpg"
         alt = "Mobgen"
@@ -388,19 +393,14 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         link = "http://ednon.com/"
 
       [[params.clients.bronze]]
-        logo = "forensic.png"
-        alt = "Forensics & Security"
-        link = "http://forensic-security.com/"
+        logo = "aldaba.png"
+        alt = "Aldaba"
+        link = "https://www.aldaba.es/"
 
       [[params.clients.bronze]]
         logo = "oesia.jpg"
         alt = "Oesía"
         link = "http://grupooesia.com/"
-
-      [[params.clients.bronze]]
-        logo = "aldaba.png"
-        alt = "Aldaba"
-        link = "https://www.aldaba.es/"
 
   # Contact section
   [params.contact]
