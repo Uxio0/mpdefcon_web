@@ -313,58 +313,94 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
 
+    [params.coTeam]
+    enable = true
+    title = "Organiza"
+
+      [[params.coTeam.members]]
+        logo = "cpeig.png"
+        alt = "Colexio Profesional de Enxeñaría en Informática de Galicia"
+        link = "https://www.cpeig.gal"
+
+      [[params.coTeam.members]]
+        logo = "RNASA.png"
+        alt = "RNASA-IMEDIR"
+        link = "http://rnasa.tic.udc.es/presentacion.html"
+
+      [[params.coTeam.members]]
+        logo = "fic.jpg"
+        alt = "Facultade de Informática de A Coruña"
+        link = "http://www.fic.udc.es"
+
+
 
   # Client section
     [params.clients_list]
       enable = true
       title = "Colaboradores"
       # Possibility to center items
-      #center = true
+      center = true
       # Optional client title specifying the involvement
       #title = "Used and trusted by"
 
       # All the clients' logos are stored under 'static/img/logos'.
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
-      [[params.clients]]
-        logo = "cpeig.png"
-        alt = "Colexio Profesional de Enxeñaría en Informática de Galicia"
-        link = "https://www.cpeig.gal"
-
-    [[params.clients]]
-        logo = "RNASA.png"
-        alt = "RNASA-IMEDIR"
-        link = "http://rnasa.tic.udc.es/presentacion.html"
-
-      [[params.clients]]
-        logo = "fic.jpg"
-        alt = "Facultade de Informática de A Coruña"
-        link = "http://www.fic.udc.es"
-
-      [[params.clients]]
-        logo = "aulanosa.png"
-        alt = "Aula Nosa"
-        link = "http://www.aulanosa.es"
-
-      [[params.clients]]
-        logo = "forensic.png"
-        alt = "Forensics & Security"
-        link = "http://forensic-security.com/"
-
-      [[params.clients]]
+      [[params.clients.gold]]
         logo = "academia-postal.png"
         alt = "Grupo Academia Postal"
         link = "http://www.academiapostal.es"
 
-      [[params.clients]]
+      [[params.clients.gold]]
         logo = "trileuco.png"
         alt = "Trileuco Solutions"
         link = "http://trileucosolutions.com/"
 
-      [[params.clients]]
+      [[params.clients.gold]]
+        logo = "aulanosa.png"
+        alt = "Aula Nosa"
+        link = "http://www.aulanosa.es"
+
+
+      [[params.clients.gold]]
+        logo = "telefonica.jpg"
+        alt = "Telefónica"
+        link = "https://www.telefonica.es/"
+
+      [[params.clients.gold]]
+        logo = "gradiant.jpg"
+        alt = "Gradiant"
+        link = "https://www.gradiant.org/"
+
+      [[params.clients.silver]]
+        logo = "mobgen.jpg"
+        alt = "Mobgen"
+        link = "https://mobgen.com/"
+
+      [[params.clients.silver]]
         logo = "symantec.png"
         alt = "Symantec"
         link = "https://www.symantec.com/es/es/"
+
+      [[params.clients.silver]]
+        logo = "ednon.png"
+        alt = "Ednon"
+        link = "http://ednon.com/"
+
+      [[params.clients.bronze]]
+        logo = "forensic.png"
+        alt = "Forensics & Security"
+        link = "http://forensic-security.com/"
+
+      [[params.clients.bronze]]
+        logo = "oesia.jpg"
+        alt = "Oesía"
+        link = "http://grupooesia.com/"
+
+      [[params.clients.bronze]]
+        logo = "aldaba.png"
+        alt = "Aldaba"
+        link = "https://www.aldaba.es/"
 
   # Contact section
   [params.contact]
