@@ -1,0 +1,10 @@
+modalID: 17
+title: Miguel Hernández
+subtitle: Ingeniero en Telecomunicaciones por la universidad de Zaragoza y Máster en Ciberseguridad por la universidad Carlos III de Madrid. Analista de seguridad Informática. Ha invertido los últimos años de su carrera profesional en multinacionales españolas, como Telefónica o BBVA (i4s), en investigación e innovación de nuevos procedimentos de detección de fraude, thread intelligence y seguridad defensiva. Actualmente trabaja en el sector bancario aplicando tecnologías de Natural Language Processing, Deep Learning y graph databases. Ha sido premiado con diferentes reconocimientos por su trabajo en estas disciplinas.
+date: 2017-01-29
+img: miguel-hernandez.jpg
+preview: miguel-hernandez.jpg
+client: Start Bootstrap
+clientLink: "#"
+category: i4s
+description: Graph databases are an "emerging" technology useful in the field of cybersecurity, especially in the detection of new threats based on the correlation of diverse sources of information. However, insufficient attention has been spent in terms of its security. In this talk, it will be reviewed the state of art of this kind of databases and its desing security problems, specially for Neo4J and OrientDB. We will release a hacking tool for testing and detecting graph databases and will show several examples of information leak in the real world.
