@@ -50,6 +50,7 @@ googleAnalytics = "UA-90759484-1"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Congreso"
+    schedule = "Programa"
     portfolio = "Ponentes"
     about = "Historia"
     team = "Organización"
@@ -125,6 +126,13 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 **La inscripción y la aceptación del [código de conducta](fixed/conducta) serán de carácter obligatorio** para poder participar en el evento.
 """
       url = "#"
+
+
+  # Schedule section
+  [params.schedule]
+    enable = true
+    title = "Programa"
+    file = "pdf/programa-mariapitadefcon-2017.pdf"
 
   # Portfolio section
   [params.portfolio]
