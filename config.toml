@@ -247,11 +247,12 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       ]
 
     [[params.team.members]]
-      img = "mr_robot.jpg"
+      img = "daniel-somoza.png"
       name = "Daniel Somoza"
       position = ""
       social = [
-        ["fa-building-o", "http://www.aulanosa.es/"]
+        ["fa-building-o", "http://www.aulanosa.es/"],
+        ["fa-twitter", "https://twitter.com/DaniSomoza_"]
       ]
 
     [[params.team.members]]
