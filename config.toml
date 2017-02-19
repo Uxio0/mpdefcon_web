@@ -49,7 +49,7 @@ googleAnalytics = "UA-90759484-1"
     brand = "María Pita DefCon"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
-    services = "Congreso"
+    services = "¿Qué es?"
     schedule = "Programa"
     portfolio = "Ponentes"
     about = "Historia"
@@ -84,7 +84,7 @@ googleAnalytics = "UA-90759484-1"
   # Services section
   [params.services]
     enable = true
-    title = "Congreso"
+    title = "¿Qué es?"
     mapsIframe = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.1118216225314!2d-8.413077584226615!3d43.33284908110404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2e7cb3d82865e7%3A0x426ea83b7a5a451f!2sFacultad+de+Inform%C3%A1tica+-+UDC!5e0!3m2!1ses!2ses!4v1485284149515"
     subtitle = """
 **María Pita DefCon** es un **evento centrado en la seguridad informática y la visibilización de la mujer en dicho ámbito**, que tendrá lugar en la **Facultade de Informática de la Universidade da Coruña del 6 al 12 de marzo de 2017**.
