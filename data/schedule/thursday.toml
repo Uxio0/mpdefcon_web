@@ -1,4 +1,5 @@
-day = "Jueves 9"
+date = "2017-03-09"
+weekday = "Jueves 9"
 
 [[ items ]]
 time = "8:30"
