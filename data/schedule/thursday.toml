@@ -41,13 +41,18 @@ title = "Descanso"
 
 [[ items ]]
 time = "15:30"
-title = "Alberto Maroto"
-speakers = "Borrado seguro. ¿Realmente seguro?"
+title = "Borrado seguro. ¿Realmente seguro?"
+speakers = "Alberto Maroto"
+
+[[ items ]]
+time = "15:30"
+title = "[Taller] Criptografía como metodología de aprendizaje"
+speakers = "Miriam Martínez"
 
 [[ items ]]
 time = "16:30"
-title = "Yaiza Rubio"
-speakers = "Ataques de falsa bandera"
+title = "Ataques de falsa bandera"
+speakers = "Yaiza Rubio"
 
 [[ items ]]
 time = "17:30"
@@ -55,8 +60,8 @@ title = "Descanso"
 
 [[ items ]]
 time = "18:00"
-title = "David Méndez / Diego Hermida"
-speakers = "Inyección SQL: 18 años después"
+title = "Inyección SQL: 18 años después"
+speakers = "David Méndez / Diego Hermida"
 
 [[ items ]]
 time = "19:00"
