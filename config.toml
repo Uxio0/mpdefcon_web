@@ -409,6 +409,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 
       [[params.clients.bronze]]
         logo = "oesia.jpg"
+        maxHeight = "100px"
         alt = "Oesía"
         link = "http://grupooesia.com/"
 
