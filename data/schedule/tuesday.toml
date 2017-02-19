@@ -1,0 +1,13 @@
+day = "Martes 7"
+
+[[ items ]]
+time = "16:00"
+title = "[TALLER] Hacking y seguridad web para desarrolladores"
+speakers = "Jose Mato"
+duration = "4h"
+
+[[ items ]]
+time = "16:00"
+title = "[TALLER] Introducción a la informática forense"
+speakers = "Pilar Vila"
+duration = "2:30h"

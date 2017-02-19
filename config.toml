@@ -132,6 +132,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
   [params.schedule]
     enable = true
     title = "Programa"
+    subtitle = "Charlas y talleres"
     file = "pdf/programa-mariapitadefcon-2017.pdf"
 
   # Portfolio section

@@ -1,0 +1,67 @@
+day = "Jueves 9"
+
+[[ items ]]
+time = "8:30"
+title = "Apertura registro"
+speakers = ""
+
+[[ items ]]
+time = "9:00"
+title = "Inauguración"
+speakers = ""
+
+[[ items ]]
+time = "9:30"
+title = "El uso seguro de las TIC"
+speakers = "Fernando Villar"
+
+[[ items ]]
+time = "10:30"
+title = "Anonimización: dime con quién andas y te diré quién eres"
+speakers = "Lilian Adkinson / Pablo Dago"
+
+[[ items ]]
+time = "11:30"
+title = "Descanso"
+
+[[ items ]]
+time = "12:00"
+title = "Facebook y la privacidad por defecto"
+speakers = "Enrique Andrade"
+
+[[ items ]]
+time = "13:00"
+title = "Mesa redonda: La mujer en el mundo de la ciberseguridad"
+speakers = "Miriam Martínez / Susana Rey / Yaiza Rubio / Pilar Vila..."
+
+[[ items ]]
+time = "14:00"
+title = "Descanso"
+
+[[ items ]]
+time = "15:30"
+title = "Alberto Maroto"
+speakers = "Borrado seguro. ¿Realmente seguro?"
+
+[[ items ]]
+time = "16:30"
+title = "Yaiza Rubio"
+speakers = "Ataques de falsa bandera"
+
+[[ items ]]
+time = "17:30"
+title = "Descanso"
+
+[[ items ]]
+time = "18:00"
+title = "David Méndez / Diego Hermida"
+speakers = "Inyección SQL: 18 años después"
+
+[[ items ]]
+time = "19:00"
+title = "Apache SPOT: utilizando Big Data para detección de intrusiones"
+speakers = " Kenneth Peiruza"
+
+[[ items ]]
+time = "20:00"
+title = "Cierre de puertas"

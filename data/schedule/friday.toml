@@ -1,0 +1,66 @@
+day = "Viernes 10"
+
+[[ items ]]
+time = "8:30"
+title = "Apertura registro"
+speakers = ""
+
+[[ items ]]
+time = "9:00"
+title = "Derecho a la Privacidad y Reglamento Europeo de Protección de Datos"
+speakers = "Victor Salgado"
+
+[[ items ]]
+time = "10:00"
+title = "Bang bang: my evidence shot me down"
+speakers = "Luis Jurado / Ricardo Labiaga"
+
+[[ items ]]
+time = "11:00"
+title = "Descanso"
+
+[[ items ]]
+time = "11:30"
+title = "(In) Security graph database in real world"
+speakers = "Alfonso Muñoz / Miguel Hernández"
+
+[[ items ]]
+time = "12:30"
+title = "Evolución del Phishing a lo largo de los año"
+speakers = "Pablo González"
+
+[[ items ]]
+time = "13:30"
+title = "Descanso"
+
+[[ items ]]
+time = "15:00"
+title = "El criptosistema RSA"
+speakers = "Pablo Mariño"
+
+[[ items ]]
+time = "16:00"
+title = "RadioWarfare: la guerra invisible"
+speakers = " David Marugán"
+
+[[ items ]]
+time = "17:00"
+title = "Descanso"
+
+[[ items ]]
+time = "17:30"
+title = "Memorias de un Perito Informático Forense Vol. IV"
+speakers = "Lorenzo Martínez"
+
+[[ items ]]
+time = "18:30"
+title = "Detección y análisis de un ataque avanzado de Malware con Incident Response"
+speakers = "Pedro Sánchez"
+
+[[ items ]]
+time = "19:30"
+title = "Clausura"
+
+[[ items ]]
+time = "20:00"
+title = "Cierre de puertas"

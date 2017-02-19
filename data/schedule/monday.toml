@@ -1,0 +1,13 @@
+day = "Lunes 6"
+
+[[ items ]]
+time = "16:00"
+title = "[TALLER] Hacking y Hardening en redes locales"
+speakers = "Fran Nóvoa / Uxío Fuentefría"
+duration = "4h"
+
+[[ items ]]
+time = ""
+title = "...Sin determinar..."
+speakers = ""
+duration = ""
