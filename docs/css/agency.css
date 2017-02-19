@@ -1114,14 +1114,6 @@ aside .clients-list {
           align-items: center;
 }
 
-aside .clients-list.bronze {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
-
 
 /*** Clients categories **/
 .category-title {
@@ -1148,3 +1140,215 @@ aside .clients-list.bronze {
 }
 
 /** **/
+
+/* Schedule */
+.schedule {
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    height: auto;
+    /*letter-spacing: -4.96px;*/
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    width: 100%;
+    -webkit-perspective-origin: 553.094px 859.5px;
+            perspective-origin: 553.094px 859.5px;
+    -webkit-transform-origin: 553.094px 859.5px;
+        -ms-transform-origin: 553.094px 859.5px;
+            transform-origin: 553.094px 859.5px;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-flow: row wrap;
+        -ms-flex-flow: row wrap;
+            flex-flow: row wrap;
+    font: normal normal normal normal 16px / normal FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
+    margin: 0px;
+}
+
+.schedule h1, .schedule h2, .schedule h3, .schedule h4, .schedule h5, .schedule h6{
+  text-transform: none;
+}
+
+.schedule-day {
+    box-sizing: border-box;
+    height: auto;
+    min-height: auto;
+    min-width: auto;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    vertical-align: top;
+    -webkit-perspective-origin: 184.359px 859.5px;
+            perspective-origin: 184.359px 859.5px;
+    -webkit-transform-origin: 184.359px 859.5px;
+        -ms-transform-origin: 184.359px 859.5px;
+            transform-origin: 184.359px 859.5px;
+    font: normal normal normal normal 16px / normal sans-serif;
+}
+
+.schedule-day-header {
+    box-sizing: border-box;
+    height: 39px;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    /*width: 368.719px;*/
+    -webkit-perspective-origin: 184.359px 19.5px;
+            perspective-origin: 184.359px 19.5px;
+    -webkit-transform-origin: 184.359px 19.5px;
+        -ms-transform-origin: 184.359px 19.5px;
+            transform-origin: 184.359px 19.5px;
+    font: normal normal normal normal 16px / normal sans-serif;
+    background-image: none;
+    background-color: #222;
+}
+
+.schedule-day-header-weekday {
+    box-sizing: border-box;
+    height: 39px;
+    text-align: left;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    /*width: 348.719px;*/
+    -webkit-perspective-origin: 174.359px 19.5px;
+            perspective-origin: 174.359px 19.5px;
+    -webkit-transform-origin: 174.359px 19.5px;
+        -ms-transform-origin: 174.359px 19.5px;
+            transform-origin: 174.359px 19.5px;
+    border-bottom: 1px inset rgba(33, 33, 33, 0.2);
+    margin: 0px 10px;
+    padding: 10px;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 15px;
+    line-height: normal;
+    font-family: sans-serif;
+}
+
+.schedule-day-item {
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 140px;
+    min-height: 140px;
+    text-align: left;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    /*width: 348.719px;*/
+    -webkit-box-pack: center;
+    -webkit-justify-content: flex-start;
+        -ms-flex-pack: flex-start;
+            justify-content: flex-start;
+    -webkit-perspective-origin: 174.359px 70px;
+            perspective-origin: 174.359px 70px;
+    -webkit-transform-origin: 174.359px 70px;
+        -ms-transform-origin: 174.359px 70px;
+            transform-origin: 174.359px 70px;
+    border-top: 1px inset rgba(33, 33, 33, 0.2);
+    border-bottom: 1px inset rgba(33, 33, 33, 0.2);
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-flow: column nowrap;
+        -ms-flex-flow: column nowrap;
+            flex-flow: column nowrap;
+    font: normal normal normal normal 16px / normal sans-serif;
+    /*margin: 140px 10px 0px;*/
+    padding: 10px;
+}
+
+
+.schedule-day-item-time {
+    box-sizing: border-box;
+    color: rgb(38, 138, 38);
+    height: 15px;
+    min-height: auto;
+    min-width: auto;
+    text-align: left;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    /*width: 324.719px;*/
+    -webkit-column-rule-color: rgb(38, 138, 38);
+       -moz-column-rule-color: rgb(38, 138, 38);
+            column-rule-color: rgb(38, 138, 38);
+    -webkit-perspective-origin: 162.359px 7.5px;
+            perspective-origin: 162.359px 7.5px;
+    -webkit-transform-origin: 162.359px 7.5px;
+        -ms-transform-origin: 162.359px 7.5px;
+            transform-origin: 162.359px 7.5px;
+    border: 0px none rgb(38, 138, 38);
+    font: normal normal bold normal 13.28px / normal sans-serif;
+    margin: 2px;
+    outline: rgb(38, 138, 38) none 0px;
+}
+
+.schedule-day-item-title {
+    box-sizing: border-box;
+    /*height: 15px;*/
+    min-height: auto;
+    min-width: auto;
+    text-align: left;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    /*width: 324.719px;*/
+    -webkit-perspective-origin: 162.359px 7.5px;
+            perspective-origin: 162.359px 7.5px;
+    -webkit-transform-origin: 162.359px 7.5px;
+        -ms-transform-origin: 162.359px 7.5px;
+            transform-origin: 162.359px 7.5px;
+    font: normal normal bold normal 13.28px / normal sans-serif;
+    margin: 2px;
+}
+
+.schedule-day-item-speakersWrapper {
+    box-sizing: border-box;
+    height: 15px;
+    min-height: auto;
+    min-width: auto;
+    text-align: left;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    /*width: 324.719px;*/
+    -webkit-perspective-origin: 162.359px 7.5px;
+            perspective-origin: 162.359px 7.5px;
+    -webkit-transform-origin: 162.359px 7.5px;
+        -ms-transform-origin: 162.359px 7.5px;
+            transform-origin: 162.359px 7.5px;
+    font: normal normal bold normal 13.28px / normal sans-serif;
+    margin: 2px;
+}
+
+.schedule-day-item-speakers {
+    box-sizing: border-box;
+    text-align: left;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+    font: normal normal normal normal 13.28px / normal sans-serif;
+    font-weight: normal;
+}
+
+
+@media(max-width: 375px) {
+    .schedule-day-item {
+      height: 180px;
+      min-height: 180px;
+    }
+}
