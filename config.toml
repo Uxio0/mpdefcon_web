@@ -417,7 +417,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
   [params.contact]
     enable = true
     title = "Contacto"
-    subtitle  = "Quieres colaborar con el evento? Tal vez aportar como voluntario? Alguna duda?"
+    subtitle  = "¿Quieres colaborar con el evento? ¿Tal vez aportar como voluntario? ¿Alguna duda?"
     buttonText = "Enviar mensaje"
 
     # Since this template is static, the contact form uses www.formspree.io as a
