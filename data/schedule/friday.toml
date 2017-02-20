@@ -40,9 +40,15 @@ title = "El criptosistema RSA"
 speakers = "Pablo Mariño"
 
 [[ items ]]
+time = "15:00"
+title = "[Taller] Uso seguro de las TIC a nivel corporativo"
+speakers = "Fernando Villar"
+duration = "2h"
+
+[[ items ]]
 time = "16:00"
 title = "RadioWarfare: la guerra invisible"
-speakers = " David Marugán"
+speakers = "David Marugán"
 
 [[ items ]]
 time = "17:00"

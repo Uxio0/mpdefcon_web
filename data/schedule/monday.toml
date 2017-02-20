@@ -3,12 +3,12 @@ weekday = "Lunes 6"
 
 [[ items ]]
 time = "16:00"
-title = "[TALLER] Hacking y Hardening en redes locales"
+title = "[Taller] Hacking y Hardening en redes locales"
 speakers = "Fran Nóvoa / Uxío Fuentefría"
 duration = "4h"
 
 [[ items ]]
-time = ""
-title = "...Sin determinar..."
-speakers = ""
-duration = ""
+time = "16:00"
+title = "[Taller] Seguridad y web scrapping en iOS"
+speakers = "Jacobo Rodríguez"
+duration = "3h"
