@@ -55,6 +55,7 @@ googleAnalytics = "UA-90759484-1"
     about = "Historia"
     team = "Organización"
     contact = "Contacto"
+    coTeam = "Colaboradores"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
@@ -67,10 +68,10 @@ googleAnalytics = "UA-90759484-1"
     #  weight = 10
 
     # postpended links
-    [[menu.postpend]]
-      url = "fixed/colaboradores/"
-      name = "Colaboradores"
-      weight = 10
+    # [[menu.postpend]]
+    #   url = "fixed/colaboradores/"
+    #   name = "Colaboradores"
+    #   weight = 10
 
   # Hero section
   [params.hero]
@@ -350,6 +351,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       title = "Colaboradores"
       # Possibility to center items
       center = true
+      inscriptionLink = "fixed/colaboradores/"
       # Optional client title specifying the involvement
       #title = "Used and trusted by"
 
