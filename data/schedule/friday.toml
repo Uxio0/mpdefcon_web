@@ -41,7 +41,8 @@ speakers = "Pablo Mariño"
 
 [[ items ]]
 time = "15:00"
-title = "[Taller] Uso seguro de las TIC a nivel corporativo"
+taller = true
+title = "Uso seguro de las TIC a nivel corporativo"
 speakers = "Fernando Villar"
 duration = "2h"
 
