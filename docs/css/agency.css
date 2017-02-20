@@ -994,6 +994,14 @@ section {
   padding-left: 0px;
 }
 
+section#services .section-subheading {
+  line-height: 30px;
+}
+
+section#services .section-subheading strong {
+  color: #352d2d;
+}
+
 section#services .map-container {
     margin-bottom: 75px;
     position:relative; /* Used with overlay class to disable scroll-zoom */
@@ -1114,6 +1122,13 @@ aside .clients-list {
           align-items: center;
 }
 
+aside#collaborators .section-subheading{
+  text-transform: none;
+  font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+}
 
 /*** Clients categories **/
 .category-title {
@@ -1271,6 +1286,9 @@ aside .clients-list {
     padding: 10px;
 }
 
+.schedule-day-item:hover {
+  background-color: #ddd;
+}
 
 .schedule-day-item-time {
     box-sizing: border-box;
@@ -1314,6 +1332,10 @@ aside .clients-list {
             transform-origin: 162.359px 7.5px;
     font: normal normal bold normal 13.28px / normal sans-serif;
     margin: 2px;
+}
+
+.schedule-day-item-taller {
+  color: red;
 }
 
 .schedule-day-item-speakersWrapper {
