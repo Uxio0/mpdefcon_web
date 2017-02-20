@@ -415,6 +415,11 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         alt = "Oesía"
         link = "http://grupooesia.com/"
 
+      [[params.clients.bronze]]
+        logo = "balidea.jpg"
+        alt = "Balidea"
+        link = "http://www.balidea.com/"
+
   # Contact section
   [params.contact]
     enable = true
