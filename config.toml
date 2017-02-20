@@ -88,11 +88,11 @@ googleAnalytics = "UA-90759484-1"
     title = "¿Qué es?"
     mapsIframe = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.1118216225314!2d-8.413077584226615!3d43.33284908110404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2e7cb3d82865e7%3A0x426ea83b7a5a451f!2sFacultad+de+Inform%C3%A1tica+-+UDC!5e0!3m2!1ses!2ses!4v1485284149515"
     subtitle = """
-**María Pita DefCon** es un **evento centrado en la seguridad informática y la visibilización de la mujer en dicho ámbito**, que tendrá lugar en la **Facultade de Informática de la Universidade da Coruña del 6 al 12 de marzo de 2017**.
+**María Pita DefCon** es un evento centrado en la **seguridad informática** y la **visibilización de la mujer** en dicho ámbito, que tendrá lugar en la **Facultade de Informática** de la Universidade da Coruña del **6** al **12** de **marzo** de 2017.
 
-En él se darán cita los **mejores ponentes del mundo de la seguridad informática tanto a nivel local como nacional.**
+En él se darán cita los mejores ponentes del mundo de la seguridad informática tanto a nivel **local** como **nacional**.
 
-**Con una participación estimada de más de 500 visitantes únicos**, contará con numerosas charlas, mesas redondas, talleres y concursos a lo largo de toda una semana."""
+Con una participación estimada de más de **500 visitantes únicos**, contará con numerosas charlas, mesas redondas, talleres y concursos a lo largo de toda una semana."""
 
     [[params.services.row]]
 
@@ -100,11 +100,11 @@ En él se darán cita los **mejores ponentes del mundo de la seguridad informát
       icon = "fa-paper-plane-o"
       title = "CFP"
       description = """
-¿Tiene una **charla, taller, mesa redonda o concurso** sobre seguridad que quiera presentar a un público interesado y entregado?
+¿Tienes una **charla, taller, mesa redonda o concurso** sobre seguridad que quieras presentar a un público interesado?
 
 El call for papers permanecerá **abierto desde el 9 de enero al 6 de febrero (ambos inclusive)**.
 
-[Siga el enlace para más información](fixed/cfp)
+[Sigue este enlace para más información](fixed/cfp)
 """
       url = "#"
 
@@ -112,9 +112,9 @@ El call for papers permanecerá **abierto desde el 9 de enero al 6 de febrero (a
       icon = "fa-users"
       title = "Voluntarios"
       description = """
-Desde la Organización del evento, **buscamos voluntarios** que quieran echar una mano con cualquier tarea derivada de la organización del mismo.
+Desde la Organización del evento, **buscamos voluntarios** que quieran echar una mano con cualquier tarea relacionada con la organización del mismo.
 
-Si está **interesado en colaborar** como voluntario, rellene el [siguiente formulario](http://voluntarios.mariapitadefcon.es/). Nos pondremos en contacto con usted a la mayor brevedad posible. Se lo agradecemos de antemano.
+Si estás **interesado en colaborar** como voluntario, rellena el [siguiente formulario](http://voluntarios.mariapitadefcon.es/). Nos pondremos en contacto contigo en el menor tiempo posible. ¡Gracias!
 """
       url = "#"
 
