@@ -270,8 +270,8 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       name = "José Vázquez Naya"
       position = ""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/vazqueznaya"],
+        ["fa-linkedin", "https://es.linkedin.com/in/vazqueznaya"]
       ]
 
     [[params.team.members]]
@@ -318,11 +318,6 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       img = "raul_rodriguez_rubio.jpg"
       name = "Raúl Rodríguez Rubio"
       position = ""
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-linkedin", "#"]
-      ]
-
 
     [params.coTeam]
     enable = true
