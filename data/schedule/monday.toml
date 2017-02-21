@@ -11,6 +11,6 @@ duration = "4h"
 [[ items ]]
 time = "16:00"
 taller = true
-title = "Seguridad y web scrapping en iOS"
+title = "Seguridad y web scraping en iOS"
 speakers = "Jacobo Rodríguez"
 duration = "3h"
