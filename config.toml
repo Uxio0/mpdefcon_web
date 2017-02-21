@@ -19,7 +19,7 @@ googleAnalytics = "UA-90759484-1"
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "María Pita DefCon"
-  description = "Conferencia sobre seguridad informática en A Coruña"
+  description = "Evento centrado en la seguridad informática y la visibilización de la mujer en dicho ámbito en A Coruña"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -43,6 +43,10 @@ googleAnalytics = "UA-90759484-1"
   #  domain = "www.example.com"
   #  # Optional integrity check hash
   #  hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
+
+  [params.ogtags]
+  image = '/img/siteLogo/logo.png'
+  description = 'Evento centrado en la seguridad informática y la visibilización de la mujer en dicho ámbito. Se celebrará del 6 al 12 de marzo de 2017 en la Facultade de Informática de la Universidade da Coruña'
 
   # Navigation
   [params.navigation]
