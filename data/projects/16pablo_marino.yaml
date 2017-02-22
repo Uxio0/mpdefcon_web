@@ -8,3 +8,7 @@ client: Start Bootstrap
 clientLink: "#"
 category: FIC
 description: El criptosistema RSA. Estado del arte. El RSA cumple 40 años, ¿Que es?, ¿Como funciona? y ¿Cuales son los problemas a los que se enfrenta hoy en día?
+social: [
+  ["fa-twitter", "https://twitter.com/supergamera0"],
+  ["fa-linkedin", "https://www.linkedin.com/in/pablomarinoboga/"]
+]
