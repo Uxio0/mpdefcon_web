@@ -83,7 +83,8 @@ googleAnalytics = "UA-90759484-1"
     # the 'static/img' folder.
     title = "María Pita DefCon"
     subtitle = ""
-    buttonText = "Cuéntame más"
+    buttonText = "¡Regístrate ya!"
+    url = "https://mariapitadefcon.eventbrite.es"
 
 
   # Services section
