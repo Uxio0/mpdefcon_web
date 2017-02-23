@@ -982,6 +982,18 @@ header .intro-text .intro-lead-in .title {
   border-radius: 3px;
 }
 
+header .intro-text .btn {
+  border-color: #f6bf01;
+  color: #fff;
+  background-color: #fec503;
+}
+
+header .intro-text .btn:hover {
+  border-color: rgb(38, 138, 38);
+  color: #fff;
+  background-color: rgb(38, 138, 38);
+}
+
 aside {
   padding-top: 100px;
   padding-bottom: 40px;
@@ -993,6 +1005,41 @@ section {
   padding-right: 0px;
   padding-left: 0px;
 }
+
+section#registration {
+  background-color: #222;
+}
+
+section#registration .section-heading {
+  color: #fff;
+}
+
+section#registration .section-subheading {
+  color: #cecaca;
+}
+
+section#registration .btn {
+    border-color: #f6bf01;
+    color: #fff;
+    background-color: #fec503;
+}
+
+section#registration .btn:hover {
+  border-color: rgb(38, 138, 38);
+  color: #fff;
+  background-color: rgb(38, 138, 38);
+}
+
+section#registration .help {
+    color: #cecaca;
+}
+
+@media(max-width:767px) {
+    section#registration .workshops .btn {
+        margin-top: 50px;
+    }
+}
+
 
 section#services .section-subheading {
   line-height: 25px;
