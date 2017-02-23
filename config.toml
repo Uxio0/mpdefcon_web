@@ -110,7 +110,7 @@ Con una participación estimada de más de **500 visitantes únicos**, contará 
 
 El call for papers permanecerá **abierto desde el 9 de enero al 6 de febrero (ambos inclusive)**.
 
-[Sigue este enlace para más información](fixed/cfp)
+[Sigue este enlace para más información](/fixed/cfp)
 """
       url = "#"
 
@@ -130,7 +130,7 @@ Si estás **interesado en colaborar** como voluntario, rellena el [siguiente for
       description = """
 Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 
-**La inscripción y la aceptación del [código de conducta](fixed/conducta) serán de carácter obligatorio** para poder participar en el evento.
+**La inscripción y la aceptación del [código de conducta](/fixed/conducta) serán de carácter obligatorio** para poder participar en el evento.
 """
       url = "#"
 
@@ -505,8 +505,8 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 
     [[params.footer.quicklinks]]
       text = "Código de conducta"
-      link = "fixed/conducta/"
+      link = "/fixed/conducta/"
 
     [[params.footer.quicklinks]]
       text = "Colaboradores"
-      link = "fixed/colaboradores/"
+      link = "/fixed/colaboradores/"
