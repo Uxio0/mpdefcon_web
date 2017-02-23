@@ -54,10 +54,11 @@ googleAnalytics = "UA-90759484-1"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "¿Qué es?"
+    registration = "Registro"
     schedule = "Programa"
     portfolio = "Ponentes"
     about = "Historia"
-    team = "Organización"
+    team = "Equipo"
     contact = "Contacto"
     coTeam = "Colaboradores"
 
@@ -133,6 +134,22 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 """
       url = "#"
 
+  # Registration section
+  [params.registration]
+  enable = true
+  title = "Registro"
+  subtitle = "Inscripción para las charlas y talleres"
+
+    [params.registration.talks]
+    enable = true
+    buttonText = "Charlas"
+    url = "https://mariapitadefcon.eventbrite.es"
+
+    [params.registration.workshops]
+    enable = false
+    buttonText = "Talleres"
+    disableHelp = "*Se abrirá el plazo en los próximos días"
+    url = ""
 
   # Schedule section
   [params.schedule]
@@ -205,8 +222,8 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     enable = true
     # Possibility to center items
     center = true
-    title = "Organización"
-    subtitle = ""
+    title = "Equipo"
+    subtitle = "Organización del evento"
     description = ""
 
     # All team member's pictures are stored under 'static/img/team'.
