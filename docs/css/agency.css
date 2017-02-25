@@ -1092,10 +1092,6 @@ section#portfolio .portfolio-item {
   padding-top: 15px;
 }
 
-section#portfolio .portfolio-caption .text-muted{
-  line-height: 20px;
-}
-
 section#portfolio ul.social-buttons {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -1199,6 +1195,18 @@ aside#collaborators .section-subheading{
   background-color: #e89644 ;
   padding: 5px 30px 5px 30px;
   border-radius: 17px;
+}
+
+.clients-list.bronze {
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.clients-list.bronze img {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 /** **/
