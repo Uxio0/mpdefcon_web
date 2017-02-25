@@ -429,10 +429,9 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         link = "https://www.aldaba.es/"
 
       [[params.clients.bronze]]
-        logo = "oesia.jpg"
-        maxHeight = "100px"
-        alt = "Oesía"
-        link = "http://grupooesia.com/"
+        logo = "armada.png"
+        alt = "Escuela de Especialidades Antonio Escaño"
+        link = "http://www.armada.mde.es/ArmadaPortal/page/Portal/ArmadaEspannola/personal_escuelas/prefLang_es/04_escano--03_historia_es"
 
       [[params.clients.bronze]]
         logo = "balidea.jpg"
@@ -450,9 +449,12 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         link = "http://www.emetel.net"
 
       [[params.clients.bronze]]
-        logo = "armada.png"
-        alt = "Escuela de Especialidades Antonio Escaño"
-        link = "http://www.armada.mde.es/ArmadaPortal/page/Portal/ArmadaEspannola/personal_escuelas/prefLang_es/04_escano--03_historia_es"
+        logo = "oesia.jpg"
+        maxHeight = "100px"
+        alt = "Oesía"
+        link = "http://grupooesia.com/"
+
+
 
   # Contact section
   [params.contact]
