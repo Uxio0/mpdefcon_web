@@ -347,10 +347,6 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     enable = true
     title = "Organiza"
 
-      [[params.coTeam.members]]
-        logo = "cpeig.png"
-        alt = "Colexio Profesional de Enxeñaría en Informática de Galicia"
-        link = "https://www.cpeig.gal"
 
       [[params.coTeam.members]]
         logo = "RNASA.png"
@@ -361,6 +357,12 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         logo = "fic.jpg"
         alt = "Facultade de Informática de A Coruña"
         link = "http://www.fic.udc.es"
+
+      [[params.coTeam.members]]
+        logo = "cpeig.png"
+        increaseLogoSize = true
+        alt = "Colexio Profesional de Enxeñaría en Informática de Galicia"
+        link = "https://www.cpeig.gal"
 
 
 
