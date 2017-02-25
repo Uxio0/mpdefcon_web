@@ -179,7 +179,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 
     # About section
   [params.about]
-    enable = true
+    enable = false
     title = "Historia"
     subtitle = ""
     endpoint = "Tú también puedes ser parte!"
