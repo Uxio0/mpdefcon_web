@@ -439,6 +439,21 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         alt = "Balidea"
         link = "http://www.balidea.com/"
 
+      [[params.clients.bronze]]
+        logo = "coremain.jpg"
+        alt = "Coremain"
+        link = "http://www.coremain.com/"
+
+      [[params.clients.bronze]]
+        logo = "emetel.png"
+        alt = "Emetel"
+        link = "http://www.emetel.net"
+
+      [[params.clients.bronze]]
+        logo = "armada.png"
+        alt = "Escuela de Especialidades Antonio Escaño"
+        link = "http://www.armada.mde.es/ArmadaPortal/page/Portal/ArmadaEspannola/personal_escuelas/prefLang_es/04_escano--03_historia_es"
+
   # Contact section
   [params.contact]
     enable = true
