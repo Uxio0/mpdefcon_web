@@ -8,3 +8,8 @@ client: Start Bootstrap
 clientLink: "#"
 category: Vippter
 description: "**TALLER** (4 horas) de Hacking y Hardening en redes locales."
+social: [
+  ["fa-twitter", "https://twitter.com/uxio0"],
+  ["fa-github", "https://github.com/Uxio0"],
+  ["fa-linkedin", "https://linkedin.com/in/uxiofuentefria"],
+]

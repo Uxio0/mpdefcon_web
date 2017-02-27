@@ -8,3 +8,6 @@ client: Start Bootstrap
 clientLink: "#"
 category: Grupo Academia Postal
 description: "**TALLER** (4 horas) de Hacking y Hardening en redes locales."
+social: [
+  ["fa-building-o", "http://www.academiapostal.es/"]
+]
