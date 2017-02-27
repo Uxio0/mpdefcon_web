@@ -148,10 +148,9 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     url = "https://mariapitadefcon.eventbrite.es"
 
     [params.registration.workshops]
-    enable = false
+    enable = true
     buttonText = "Talleres"
-    disableHelp = "*Se abrirá el plazo en los próximos días"
-    url = ""
+    url = "fixed/talleres"
 
   # Schedule section
   [params.schedule]
