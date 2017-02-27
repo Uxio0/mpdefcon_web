@@ -6,8 +6,31 @@
     <description>Recent content on María Pita DefCon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 14 Jan 2017 15:23:11 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2017 00:10:11 +0100</lastBuildDate>
     <atom:link href="https://www.mariapitadefcon.es/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Talleres</title>
+      <link>https://www.mariapitadefcon.es/fixed/talleres/</link>
+      <pubDate>Tue, 28 Feb 2017 00:10:11 +0100</pubDate>
+      
+      <guid>https://www.mariapitadefcon.es/fixed/talleres/</guid>
+      <description>
+
+&lt;h1 id=&#34;talleres&#34;&gt;Talleres&lt;/h1&gt;
+
+&lt;p&gt;¡Ya está abierto el registro para los talleres! ¡No te lo pienses mucho, las plazas son limitadas!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ios-mariapitadefcon.eventbrite.es&#34;&gt;Seguridad y web scraping en iOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://switches-mariapitadefcon.eventbrite.es&#34;&gt;Hacking and Hardening LAN switches&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://owasp-mariapitadefcon.eventbrite.es&#34;&gt;Hacking y seguridad web para desarrolladores&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forense-mariapitadefcon.eventbrite.es&#34;&gt;Introducción a la informática forense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://criptografia-mariapitadefcon.eventbrite.es&#34;&gt;Criptografía como metodología de aprendizaje&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://seguridadtic-mariapitadefcon.eventbrite.es&#34;&gt;Uso seguro de las TIC a nivel corporativo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CFP</title>
