@@ -25,6 +25,7 @@ googleAnalytics = "UA-90759484-1"
   custom_css = []
   custom_js  = []
   favicon    = "favicon.ico"
+  faviconVersion = "2"
 
   # Possibility to disable external/additional fonts
   # Exception: Fontawesome
