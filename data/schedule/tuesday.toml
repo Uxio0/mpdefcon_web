@@ -3,14 +3,14 @@ weekday = "Martes 7"
 
 [[ items ]]
 time = "16:00"
-taller = true
+workshop = true
 title = "Hacking y seguridad web para desarrolladores"
 speakers = "Jose Mato"
 duration = "4h"
 
 [[ items ]]
 time = "16:00"
-taller = true
+workshop = true
 title = "Introducción a la informática forense"
 speakers = "Pilar Vila"
-duration = "2:30h"
+duration = "3h"

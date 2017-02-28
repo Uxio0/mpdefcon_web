@@ -41,9 +41,10 @@ title = "Descanso"
 
 [[ items ]]
 time = "15:30"
-taller = true
+workshop = true
 title = "Criptografía como metodología de aprendizaje"
 speakers = "Miriam Martínez"
+duration = "1h:30m"
 
 [[ items ]]
 time = "15:30"
