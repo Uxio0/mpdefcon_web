@@ -369,8 +369,6 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
     [params.clients_list]
       enable = true
       title = "Colaboradores"
-      # Possibility to center items
-      center = true
       inscriptionLink = "fixed/colaboradores/"
       # Optional client title specifying the involvement
       #title = "Used and trusted by"
@@ -408,6 +406,11 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         logo = "forensic.png"
         alt = "Forensics & Security"
         link = "http://forensic-security.com/"
+
+      [[params.clients.gold]]
+        logo = "acuntia.jpg"
+        alt = "Acuntia"
+        link = "http://www.acuntia.es/es/"
 
       [[params.clients.silver]]
         logo = "mobgen.jpg"
@@ -453,6 +456,11 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         logo = "oesia.jpg"
         alt = "Oesía"
         link = "http://grupooesia.com/"
+
+      [[params.clients.bronze]]
+          logo = "altia.png"
+          alt = "Altia"
+          link = "https://www.altia.es/"
 
       [[params.clients.bronze]]
         logo = "gpul.png"
