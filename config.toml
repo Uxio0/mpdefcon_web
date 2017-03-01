@@ -324,7 +324,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 
     [[params.team.members]]
       img = "mr_robot.jpg"
-      name = "Juan González Cid"
+      name = "Juan José González Cid"
       position = ""
       social = [
         ["fa-linkedin", "https://es.linkedin.com/in/juan-jose-gonzalez-cid-21179714/en"]
