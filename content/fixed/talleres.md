@@ -10,9 +10,9 @@ Talleres
 
 ¡Ya está abierto el registro para los talleres! ¡No te lo pienses mucho, las plazas son limitadas!
 
-* [Seguridad y web scraping en iOS](https://ios-mariapitadefcon.eventbrite.es)
-* [Hacking and Hardening LAN switches](https://switches-mariapitadefcon.eventbrite.es)
-* [Hacking y seguridad web para desarrolladores](https://owasp-mariapitadefcon.eventbrite.es)
-* [Introducción a la informática forense](https://forense-mariapitadefcon.eventbrite.es)
-* [Criptografía como metodología de aprendizaje](https://criptografia-mariapitadefcon.eventbrite.es)
-* [Uso seguro de las TIC a nivel corporativo](https://seguridadtic-mariapitadefcon.eventbrite.es)
+* [<span class="workshop-link">Seguridad y web scraping en iOS</span>](https://ios-mariapitadefcon.eventbrite.es)
+* [<span class="workshop-link">Hacking and Hardening LAN switches</span>](https://switches-mariapitadefcon.eventbrite.es)
+* [<span class="workshop-link">Hacking y seguridad web para desarrolladores</span>](https://owasp-mariapitadefcon.eventbrite.es)
+* [<span class="workshop-link">Introducción a la informática forense</span>](https://forense-mariapitadefcon.eventbrite.es)
+* [<span class="workshop-link">Criptografía como metodología de aprendizaje</span>](https://criptografia-mariapitadefcon.eventbrite.es)
+* [<span class="workshop-link">Uso seguro de las TIC a nivel corporativo</span>](https://seguridadtic-mariapitadefcon.eventbrite.es)
