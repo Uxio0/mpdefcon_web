@@ -1466,3 +1466,12 @@ aside#collaborators .section-subheading{
       min-height: 180px;
     }
 }
+
+.workshop-link {
+  color: #333;
+  font-size: 18px;
+}
+
+.workshop-link:hover {
+  color: #fec503;
+}
