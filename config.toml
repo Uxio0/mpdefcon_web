@@ -56,6 +56,7 @@ googleAnalytics = "UA-90759484-1"
     #logo = "logo.svg"
     services = "¿Qué es?"
     registration = "Registro"
+    contest = "Concurso"
     schedule = "Programa"
     portfolio = "Ponentes"
     about = "Historia"
@@ -176,8 +177,15 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
       category = "Category"
       buttonText = "Cerrar"
 
+  # Contest section
+  [params.contest]
+    enable = false
+    subtitle = "Participa y podrás <span class='emphasis'>aprender</span> y <span class='emphasis'>poner a prueba</span> tus habilidades en materia de seguridad con diferentes retos."
+    url = ""
+    logo = "trileuco.png"
+    buttonText = "¡Participa!"
 
-    # About section
+  # About section
   [params.about]
     enable = false
     title = "Historia"
