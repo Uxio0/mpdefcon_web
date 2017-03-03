@@ -1,13 +1,10 @@
 modalID: 21
 title: Francisco Nóvoa
-subtitle: TIC en Grupo Academia Postal
+subtitle: Profesor en FIC. Universidade da Coruña
 date: 2017-01-29
 img: francisco-novoa.jpg
 preview: francisco-novoa.jpg
 client: Start Bootstrap
 clientLink: "#"
-category: Grupo Academia Postal
+category: FIC
 description: "**TALLER** (4 horas) de Hacking y Hardening en redes locales."
-social: [
-  ["fa-building-o", "http://www.academiapostal.es/"]
-]
