@@ -435,6 +435,16 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         logo = "ednon.png"
         alt = "Ednon"
         link = "http://ednon.com/"
+		
+	[[params.clients.silver]]
+        logo = "estrella-galicia.jpg"
+        alt = "Estrella Galicia"
+        link = "https://estrellagalicia.es/"
+		
+	[[params.clients.silver]]
+        logo = "r-cable.jpg"
+        alt = "R-Cable"
+        link = "http://www.mundo-r.com/"
 
       [[params.clients.bronze]]
         logo = "aldaba.png"
