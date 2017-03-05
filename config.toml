@@ -179,7 +179,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
 
   # Contest section
   [params.contest]
-    enable = false
+    enable = true
     subtitle = "Participa y podrás <span class='emphasis'>aprender</span> y <span class='emphasis'>poner a prueba</span> tus habilidades en materia de seguridad con diferentes retos."
     url = "https://mariapitadefcon.trileuco.com/"
     logo = "trileuco.png"
