@@ -181,7 +181,7 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
   [params.contest]
     enable = false
     subtitle = "Participa y podrás <span class='emphasis'>aprender</span> y <span class='emphasis'>poner a prueba</span> tus habilidades en materia de seguridad con diferentes retos."
-    url = ""
+    url = "https://mariapitadefcon.trileuco.com/"
     logo = "trileuco.png"
     buttonText = "¡Participa!"
 
@@ -435,12 +435,12 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         logo = "ednon.png"
         alt = "Ednon"
         link = "http://ednon.com/"
-		
+
 	[[params.clients.silver]]
         logo = "estrella-galicia.jpg"
         alt = "Estrella Galicia"
         link = "https://estrellagalicia.es/"
-		
+
 	[[params.clients.silver]]
         logo = "r-cable.jpg"
         alt = "R-Cable"
