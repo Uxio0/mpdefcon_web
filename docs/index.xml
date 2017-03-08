@@ -8,12 +8,12 @@
     <language>es-es</language>
     <lastBuildDate>Tue, 28 Feb 2017 00:10:11 +0100</lastBuildDate>
     <atom:link href="https://www.mariapitadefcon.es/index.xml" rel="self" type="application/rss+xml" />
-
-    <item> 
+    
+    <item>
       <title>Talleres</title>
       <link>https://www.mariapitadefcon.es/fixed/talleres/</link>
       <pubDate>Tue, 28 Feb 2017 00:10:11 +0100</pubDate>
-
+      
       <guid>https://www.mariapitadefcon.es/fixed/talleres/</guid>
       <description>
 
@@ -31,12 +31,12 @@
 &lt;/ul&gt;
 </description>
     </item>
-
+    
     <item>
       <title>CFP</title>
       <link>https://www.mariapitadefcon.es/fixed/cfp/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
-
+      
       <guid>https://www.mariapitadefcon.es/fixed/cfp/</guid>
       <description>
 
@@ -88,12 +88,12 @@
 &lt;/ul&gt;
 </description>
     </item>
-
+    
     <item>
       <title>Colaboradores</title>
       <link>https://www.mariapitadefcon.es/fixed/colaboradores/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
-
+      
       <guid>https://www.mariapitadefcon.es/fixed/colaboradores/</guid>
       <description>
 
@@ -272,12 +272,12 @@
 &lt;/table&gt;
 </description>
     </item>
-
+    
     <item>
       <title>Código de Conducta</title>
       <link>https://www.mariapitadefcon.es/fixed/conducta/</link>
       <pubDate>Sat, 14 Jan 2017 15:23:11 +0100</pubDate>
-
+      
       <guid>https://www.mariapitadefcon.es/fixed/conducta/</guid>
       <description>
 
@@ -310,16 +310,16 @@
 &lt;p&gt;&lt;span lang=&#34;es-ES&#34;&gt;&lt;a href=&#34;https://github.com/gpul-labs/roadmap/blob/master/docs/codigodeconducta.md&#34;&gt;Reconocimiento&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
-
+    
     <item>
       <title>good to great</title>
       <link>https://www.mariapitadefcon.es/post/good-to-great/</link>
       <pubDate>Tue, 10 Jan 2017 18:14:01 +0100</pubDate>
-
+      
       <guid>https://www.mariapitadefcon.es/post/good-to-great/</guid>
       <description>&lt;p&gt;OMG this is so &lt;strong&gt;good&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
-
+    
   </channel>
 </rss>

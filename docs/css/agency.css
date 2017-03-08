@@ -967,10 +967,6 @@ body {
  * Custom styles
 */
 
-.emphasis{
-  color: #fed136;
-}
-
 .navbar-default .navbar-brand {
     text-shadow: 1px 1px 1px black;
 }
@@ -1125,38 +1121,6 @@ section#portfolio .portfolio-item .img-responsive {
 }
 /* */
 
-/* Section contest */
-section#contest {
-  background-color: #222;
-}
-
-section#contest .section-heading {
-  color: #fff;
-  text-transform: none;
-}
-
-section#contest .section-heading-logo {
-  max-height: 130px;
-  margin: auto;
-  display: block
-}
-
-section#contest .section-subheading {
-  color: #cecaca;
-}
-
-section#contest .btn {
-    border-color: #f6bf01;
-    color: #fff;
-    background-color: #fec503;
-}
-
-section#contest .btn:hover {
-  border-color: rgb(38, 138, 38);
-  color: #fff;
-  background-color: rgb(38, 138, 38);
-}
-
 
 /** Team members **/
 section#team .section-heading {
@@ -1233,8 +1197,7 @@ aside#collaborators .section-subheading{
   border-radius: 17px;
 }
 
-/* Do not center gold and bronce logos */
-.clients-list.gold, .clients-list.bronze {
+.clients-list.bronze {
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
       -ms-flex-pack: start;
@@ -1426,7 +1389,7 @@ aside#collaborators .section-subheading{
     margin: 2px;
 }
 
-.schedule-day-item-workshop {
+.schedule-day-item-taller {
   color: red;
 }
 
@@ -1465,13 +1428,4 @@ aside#collaborators .section-subheading{
       height: 180px;
       min-height: 180px;
     }
-}
-
-.workshop-link {
-  color: #333;
-  font-size: 18px;
-}
-
-.workshop-link:hover {
-  color: #fec503;
 }
