@@ -346,11 +346,6 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         ["fa-linkedin", "https://es.linkedin.com/in/monicarodriguezfernandez"]
       ]
 
-    [[params.team.members]]
-      img = "raul_rodriguez_rubio.jpg"
-      name = "Raúl Rodríguez Rubio"
-      position = ""
-
     [params.coTeam]
     enable = true
     title = "Organiza"
