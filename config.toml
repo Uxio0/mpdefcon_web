@@ -346,6 +346,19 @@ Una vez publicado el programa definitivo se abrirá el registro de asistentes.
         ["fa-linkedin", "https://es.linkedin.com/in/monicarodriguezfernandez"]
       ]
 
+    [[params.team.members]]
+      img = "noelia.jpg"
+      name = "Noelia García Fondo"
+      position = "Diseñadora"
+      #livesIn = "[A Coruña, España](#some-maps-url)"
+      #scope = [
+      #  ""
+      #]
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/noelia-garc%C3%ADa-fondo-663a1713a"]
+      ]
+
+
     [params.coTeam]
     enable = true
     title = "Organiza"
